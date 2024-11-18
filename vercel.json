@@ -1,0 +1,6 @@
+{
+  "crons": [{
+    "path": "/api/bluesky",
+    "schedule": "0 */4 * * *"
+  }]
+} 

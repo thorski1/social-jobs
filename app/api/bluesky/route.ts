@@ -4,8 +4,10 @@ import { NextResponse } from 'next/server'
 
 // The search terms we want to monitor
 const SEARCH_TERMS = [
+  '100DaysOfCode',
+  'CodeNewbie',
+  'WebsiteDevelopment',
   'nextjs',
-  'react',
   'typescript',
   'tailwindcss',
   'trpc',
@@ -14,14 +16,9 @@ const SEARCH_TERMS = [
   'supabase',
   'vercel',
   'biome',
-  'bun',
   'pnpm',
-  'bun.sh',
   'magicui',
   'lucide',
-  'radix-ui',
-  'radix-ui/themes',
-  'ui',
   'zod',
 ]
 
